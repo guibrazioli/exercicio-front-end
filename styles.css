@@ -36,6 +36,9 @@ aside input[type="text"] {
   border-radius: 3px;
   padding: 10px;
 }
+ul {
+  padding-bottom: 10px;
+}
 
 figure {
   position: relative;
